@@ -21,11 +21,14 @@ header, footer {
 }
 
 .card {
-    background: white;
+    background: rgb(180, 179, 181);
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
     margin: 10px;
-    padding: 15px;
+    padding: 10px;
     width: 200px;
     text-align: center;
+}
+.triology {
+    border: 2px solid black;
 }

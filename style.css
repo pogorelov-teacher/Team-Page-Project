@@ -29,3 +29,12 @@ header, footer {
     width: 200px;
     text-align: center;
 }
+
+.card h2 {
+    color: rgb(8, 8, 163);
+}
+
+img {
+    border-radius: 15px;
+    width: 100%;
+}

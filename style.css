@@ -21,11 +21,15 @@ header, footer {
 }
 
 .card {
-    background: white;
+    background: red;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
     margin: 10px;
     padding: 15px;
     width: 200px;
     text-align: center;
+}
+.card img {
+  width: 100px;
+  border: 2px solid #3498db; 
 }

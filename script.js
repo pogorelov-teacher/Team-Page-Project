@@ -5,3 +5,10 @@ function showWelcomeMessage() {
 
 // Показ функции после загрузки странички
 window.onload = showWelcomeMessage;
+
+
+function naviki() {
+  alert("мои навыки");
+}
+
+window.onload = naviki;

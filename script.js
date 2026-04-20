@@ -5,3 +5,8 @@ function showWelcomeMessage() {
 
 // Показ функции после загрузки странички
 window.onload = showWelcomeMessage;
+
+let btn = document.getElementById('btn');
+btn.addEventListener('click', function showSkills() {
+    alert('Ниже указаны наши навыки')
+});

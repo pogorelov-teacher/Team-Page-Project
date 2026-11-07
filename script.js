@@ -5,3 +5,7 @@ function showWelcomeMessage() {
 
 // Показ функции после загрузки странички
 window.onload = showWelcomeMessage;
+
+function showSkills(){
+    alert("Навыки участников:Навык1, Навык2, Навык3")
+}

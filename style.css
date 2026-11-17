@@ -29,3 +29,9 @@ header, footer {
     width: 200px;
     text-align: center;
 }
+h2{
+    color: green;
+}
+img{
+    border: 2px, solid, black;
+}
